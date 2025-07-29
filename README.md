@@ -4,16 +4,9 @@
 </p>
 
 ## 👩‍💻 About Me
+I'm a Computer Science and Informatics graduate with a growing passion for Data Science, Machine Learning, and Analytics. I thrive at the intersection of code, data, and insight — using technology to solve real-world problems and uncover meaningful patterns.
 
-I'm a Computer Science graduate with a growing passion for solving meaningful problems using data, intelligent systems, and ethical AI.
-
-My interests include:
-
-- 🧠 Machine Learning & Predictive Analytics  
-- 🌍 Ethical AI & Federated Learning  
-- 📊 Data Visualization & Business Intelligence  
-- 🧪 Real-world problem solving through applied AI  
-
+With hands-on experience from the AfricSDSA Data Science Bootcamp (2025) and practical projects in Python, SQL, and BI tools, I aim to bring clarity to complexity through data storytelling and model-driven solutions.
 
 
 ## 🛠️ Tech Stack & Tools
