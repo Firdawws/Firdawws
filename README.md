@@ -1,34 +1,44 @@
-<h1 align="center">Hi there, I'm Firdaws Hassan 👋</h1>
+<h1 align="center">Hi 👋 I'm Firdaws </h1>
 <p align="center">
-  👩‍💻 Data & ML Enthusiast | 🎓 CS Graduate | 💡 Always Learning
+  👩‍💻 Data & ML Enthusiast | 🎓 Computer Science Graduate   Data Scientist
 </p>
 
-## 🧠 About Me
+## 👩‍💻 About Me
 
-- 🎓 Graduated with a **Bachelor's in Computer Science** from [Your University Name], [Year].
-- 🌍 Based in [City, Country].
-- 💼 Passionate about **Machine Learning**, **Data Science**, and **AI for Social Good**.
-- 🛠️ Working on projects that intersect **real-world impact** with **intelligent systems**.
-- 🤝 Open to collaborations in ML, AI, and impactful open-source contributions.
+I'm a Computer Science graduate with a growing passion for solving meaningful problems using data, intelligent systems, and ethical AI.
 
-## 💡 Interests & Passions
+My interests include:
 
-- 🧠 Machine Learning & Deep Learning
-- 🌐 Federated Learning & Privacy-Preserving AI
-- 📊 Data Analysis & Visualization
-- 🕵️‍♀️ Ethical AI & Responsible Tech
-- 📚 Lifelong learning & sharing knowledge
+- 🧠 Machine Learning & Predictive Analytics  
+- 🌍 Ethical AI & Federated Learning  
+- 📊 Data Visualization & Business Intelligence  
+- 🧪 Real-world problem solving through applied AI  
 
-## 🛠️ Tech Stack
 
-**Languages**: Python, SQL, HTML/CSS  
-**ML/DS Tools**: scikit-learn, XGBoost, pandas, numpy, matplotlib, seaborn  
-**Deployment**: Streamlit, Flask  
-**Version Control**: Git & GitHub  
-**Other**: Jupyter Notebook, VS Code, Power BI
+
+## 🛠️ Tech Stack & Tools
+
+### 🧑‍💻 Languages & Analysis  
+- **Python** • **SQL** • **Advanced Excel**
+
+### 📊 Visualization & BI  
+- **Power BI** • **Tableau** • **Advanced Excel**  
+- **Matplotlib** • **Seaborn**
+
+### 🤖 ML & Analytics Tools  
+- **scikit-learn** • **XGBoost**  
+- **Pandas** • **NumPy** • **Streamlit**
+
+
+## 🎓 Education
+
+- **Bachelor of Science and Informatics in Computer Science**  
+- **Data Science Bootcamp** – AfricSDSA (2025)
+
 
 ## 📬 Let's Connect
 
 - 📧 Email: [qaidahassan99@gmail.com.com]
 - 💼 LinkedIn: (https://www.linkedin.com/feed/)
+- Github
 
