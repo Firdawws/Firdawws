@@ -18,16 +18,24 @@ My interests include:
 
 ## 🛠️ Tech Stack & Tools
 
-### 🧑‍💻 Languages & Analysis  
-- **Python** • **SQL** • **Advanced Excel**
+### Languages & Analysis  
+Python • SQL • Advanced Excel
 
-### 📊 Visualization & BI  
-- **Power BI** • **Tableau** • **Advanced Excel**  
-- **Matplotlib** • **Seaborn**
+### Visualization & BI  
+Power BI • Tableau • Advanced Excel • Matplotlib • Seaborn
 
-### 🤖 ML & Analytics Tools  
-- **scikit-learn** • **XGBoost**  
-- **Pandas** • **NumPy** • **Streamlit**
+### ML & Analytics Tools  
+scikit-learn • XGBoost • Pandas • NumPy • Streamlit
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
 
 
 ## 🎓 Education
