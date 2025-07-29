@@ -3,7 +3,6 @@
   👩‍💻 Data & ML Enthusiast | 🎓 Computer Science Graduate | 👩‍💻Data Scientist
 </p>
 
-## 👩‍💻 About Me
 I'm a Computer Science and Informatics graduate with a growing passion for Data Science, Machine Learning, and Analytics. I thrive at the intersection of code, data, and insight — using technology to solve real-world problems and uncover meaningful patterns.
 
 With hands-on experience from the AfricSDSA Data Science Bootcamp (2025) and practical projects in Python, SQL, and BI tools, I aim to bring clarity to complexity through data storytelling and model-driven solutions.
@@ -31,6 +30,17 @@ scikit-learn • Pandas • NumPy • Streamlit
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+
+
+
+🧰 Tech Stack & Tools
+🌐 Languages
+Python • JavaScript • HTML • CSS • MySQL
+
+🛠️ Tools & Frameworks
+VSCode • GitHub • React (learning)
+
+<p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> </p> <p align="left"> <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> </p>
 
 
 
