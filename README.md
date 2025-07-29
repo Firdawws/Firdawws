@@ -9,26 +9,6 @@ I'm a Computer Science and Informatics graduate with a growing passion for Data 
 With hands-on experience from the AfricSDSA Data Science Bootcamp (2025) and practical projects in Python, SQL, and BI tools, I aim to bring clarity to complexity through data storytelling and model-driven solutions.
 
 ---
-
-## 🛠️ Tech Stack & Tools
-
-### Languages & Analysis  
-Python • SQL • Advanced Excel • PHP • HTML • CSS 
-
-### Visualization & BI  
-Power BI • Tableau • Advanced Excel • Matplotlib • Seaborn
-
-### ML & Analytics Tools  
-scikit-learn • Pandas • NumPy • Streamlit
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  
-</p>
-
----
 ## 🧰 Languages and Tools
 
 <p align="left">
@@ -60,7 +40,6 @@ scikit-learn • Pandas • NumPy • Streamlit
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" />
 </p>
 
-
 ----
 
 ## 🎓 Education
@@ -70,16 +49,12 @@ scikit-learn • Pandas • NumPy • Streamlit
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect with me😊!
 
 📧 **Email**: qaidahassan99@gmail.com
-
 <br>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/firdaws-hassan/)
-
 <br>
-
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Firdawws)
 
 
