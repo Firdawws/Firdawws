@@ -6,8 +6,6 @@
 ---
 I'm a Computer Science and Informatics graduate with a growing passion for Data Science, Machine Learning, and Analytics. I thrive at the intersection of code, data, and insight — using technology to solve real-world problems and uncover meaningful patterns.
 
-With hands-on experience from the AfricSDSA Data Science Bootcamp (2025) and practical projects in Python, SQL, and BI tools, I aim to bring clarity to complexity through data storytelling and model-driven solutions.
-
 ---
 ## 🧰 Languages and Tools
 
@@ -52,8 +50,10 @@ With hands-on experience from the AfricSDSA Data Science Bootcamp (2025) and pra
 ## 🤝 Connect with me😊!
 
 📧 **Email**: qaidahassan99@gmail.com
+
 <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/firdaws-hassan/)
+
 <br>
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Firdawws)
 
