@@ -48,8 +48,9 @@ I'm a Computer Science and Informatics graduate with a growing passion for Data 
 ---
 
 ### 🤝 Let’s Connect
+## 🤝 Let’s Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Firdawws)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)  
-📧 **Email**: qaidahassan99@gmail.com
+[<img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" align="center"/> GitHub](https://github.com/Firdawws)  
+[<img src="https://img.icons8.com/ios-filled/30/0A66C2/linkedin.png" alt="LinkedIn" align="center"/> LinkedIn](https://www.linkedin.com/feed/)  
+📩 Email: qaidahassan99@gmail.com
 
