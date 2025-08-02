@@ -4,39 +4,52 @@
 </p>
 
 ---
-I'm a Computer Science and Informatics graduate with a growing passion for Data Science, Machine Learning, and Analytics. I thrive at the intersection of code, data, and insight — using technology to solve real-world problems and uncover meaningful patterns.
+A passionate Machine Learning enthusiast and data storyteller with a solid foundation in Computer Science and a deep curiosity for solving real-world problems through data.
 
 ---
-## 🧰 Languages and Tools
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
-</p>
+## 🌟 My Mission as a Technologist
+I don’t just build solutions — I build with clarity, context, and conscience.
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-</p>
+I believe technology should:
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" />
-  <img src="https://img.icons8.com/color/48/000000/canva.png" height="40" />
-  <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" />
-</p>
+✔️ Make sense of data so people can act with confidence and insight
+
+✔️ Respect real-world complexity, including social, cultural, and ethical dimensions
+
+✔️ Be secure and trustworthy from the ground up — privacy isn’t optional
+
+✔️ Deliver actual value — improving lives, not just metrics
+
+💡 For me, every dataset is a story waiting to be understood,
+and every model is a tool to empower human potential.
+
+---
+
+##  Languages and Tools
+
+Languages & Analysis:
+Python   •   SQL   •   Advanced Excel
+
+Visualization & BI:
+Power BI   •   Tableau   •   Matplotlib   •   Seaborn
+
+ML & Analytics Tools:
+scikit-learn   •   XGBoost   •   Pandas   •   NumPy   •   Streamlit
+
+Frameworks & Back-End:
+FastAPI   •   Laravel   •   Federated Learning (TFF, FedML)
+
+Environments & IDEs:
+VS Code   •   PyCharm   •   Jupyter Notebook
+
+<div align="left">
+
+
+
+
+
+</div>
 
 ----
 
@@ -47,8 +60,7 @@ I'm a Computer Science and Informatics graduate with a growing passion for Data 
 
 ---
 
-### 🤝 Let’s Connect
-## 🤝 Let’s Connect
+##  Let’s Connect
 
 [<img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" align="center"/> GitHub](https://github.com/Firdawws)  
 [<img src="https://img.icons8.com/ios-filled/30/0A66C2/linkedin.png" alt="LinkedIn" align="center"/> LinkedIn](https://www.linkedin.com/feed/)  
