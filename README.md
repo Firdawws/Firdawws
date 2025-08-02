@@ -47,14 +47,9 @@ I'm a Computer Science and Informatics graduate with a growing passion for Data 
 
 ---
 
-## 🤝 Connect with me😊!
+### 🤝 Let’s Connect
 
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Firdawws)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)  
 📧 **Email**: qaidahassan99@gmail.com
 
-
-🤝 Let’s Connect
-📩 Email: yourname@example.com
-
-🐙 GitHub: Firdawws
-
-💼 LinkedIn: Firdaws Hassan
