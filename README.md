@@ -50,3 +50,11 @@ I'm a Computer Science and Informatics graduate with a growing passion for Data 
 ## 🤝 Connect with me😊!
 
 📧 **Email**: qaidahassan99@gmail.com
+
+
+🤝 Let’s Connect
+📩 Email: yourname@example.com
+
+🐙 GitHub: Firdawws
+
+💼 LinkedIn: Firdaws Hassan
