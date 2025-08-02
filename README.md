@@ -26,28 +26,32 @@ and every model is a tool to empower human potential.
 
 ---
 
-##  Languages and Tools
+### ⚙️ Tech Stack & Tools
 
-Languages & Analysis:
-Python   •   SQL   •   Advanced Excel
+**Languages & Analysis:**  
+`Python` • `SQL` • `Advanced Excel`
 
-Visualization & BI:
-Power BI   •   Tableau   •   Matplotlib   •   Seaborn
+**Visualization & BI:**  
+`Power BI` • `Tableau` • `Matplotlib` • `Seaborn`
 
-ML & Analytics Tools:
-scikit-learn   •   XGBoost   •   Pandas   •   NumPy   •   Streamlit
+**ML & Analytics Tools:**  
+`scikit-learn` • `XGBoost` • `Pandas` • `NumPy` • `Streamlit`
 
-Frameworks & Back-End:
-FastAPI   •   Laravel   •   Federated Learning (TFF, FedML)
+**Frameworks & Back-End:**  
+`FastAPI` • `Laravel` • `Federated Learning (TFF, FedML)`
 
-Environments & IDEs:
-VS Code   •   PyCharm   •   Jupyter Notebook
+**Environments & IDEs:**  
+`VS Code` • `PyCharm` • `Jupyter Notebook`
 
 <div align="left">
 
-
-
-
+<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
 
 </div>
 
