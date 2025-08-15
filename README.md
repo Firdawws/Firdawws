@@ -65,5 +65,5 @@ and every model is a tool to empower human potential.
 
 [<img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" align="center"/> GitHub](https://github.com/Firdawws)  
 [<img src="https://img.icons8.com/ios-filled/30/0A66C2/linkedin.png" alt="LinkedIn" align="center"/> LinkedIn](https://www.linkedin.com/feed/)  
-📩 Email: qaidahassan99@gmail.com
+📩 Email: Fhassan3879@gmail.com   
 
