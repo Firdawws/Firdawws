@@ -29,7 +29,7 @@ and every model is a tool to empower human potential.
 ### ⚙️ Tech Stack & Tools
 
 **Languages & Analysis:**  
-`Python` • `SQL` • `Advanced Excel`
+`Python` • `SQL` • `Excel`
 
 **Visualization & BI:**  
 `Power BI` • `Tableau` • `Matplotlib` • `Seaborn`
@@ -38,7 +38,7 @@ and every model is a tool to empower human potential.
 `scikit-learn` • `XGBoost` • `Pandas` • `NumPy` • `Streamlit`
 
 **Frameworks & Back-End:**  
-`FastAPI` • `Laravel` • `Federated Learning (TFF, FedML)`
+`FastAPI` • `Laravel` 
 
 **Environments & IDEs:**  
 `VS Code` • `PyCharm` • `Jupyter Notebook`
